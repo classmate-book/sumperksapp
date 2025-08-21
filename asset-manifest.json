@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sumparks/static/css/main.91a39c7c.css",
-    "main.js": "/sumparks/static/js/main.4b8ecd45.js",
-    "static/js/453.152faf74.chunk.js": "/sumparks/static/js/453.152faf74.chunk.js",
-    "static/media/networking7.png": "/sumparks/static/media/networking7.6b7869e8a639af9bb42d.png",
+    "main.css": "/sumperks/static/css/main.91a39c7c.css",
+    "main.js": "/sumperks/static/js/main.4b8ecd45.js",
+    "static/js/453.152faf74.chunk.js": "/sumperks/static/js/453.152faf74.chunk.js",
+    "static/media/networking7.png": "/sumperks/static/media/networking7.6b7869e8a639af9bb42d.png",
     "index.html": "/sumparks/index.html",
-    "main.91a39c7c.css.map": "/sumparks/static/css/main.91a39c7c.css.map",
-    "main.4b8ecd45.js.map": "/sumparks/static/js/main.4b8ecd45.js.map",
-    "453.152faf74.chunk.js.map": "/sumparks/static/js/453.152faf74.chunk.js.map"
+    "main.91a39c7c.css.map": "/sumperks/static/css/main.91a39c7c.css.map",
+    "main.4b8ecd45.js.map": "/sumperks/static/js/main.4b8ecd45.js.map",
+    "453.152faf74.chunk.js.map": "/sumperks/static/js/453.152faf74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91a39c7c.css",
