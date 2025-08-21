@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sumparks/static/css/main.91a39c7c.css",
-    "main.js": "/sumparks/static/js/main.9fc12abd.js",
+    "main.js": "/sumparks/static/js/main.4b8ecd45.js",
     "static/js/453.152faf74.chunk.js": "/sumparks/static/js/453.152faf74.chunk.js",
-    "static/media/networking7.avif": "/sumparks/static/media/networking7.4eddaedefb88169639c0.avif",
+    "static/media/networking7.png": "/sumparks/static/media/networking7.6b7869e8a639af9bb42d.png",
     "index.html": "/sumparks/index.html",
     "main.91a39c7c.css.map": "/sumparks/static/css/main.91a39c7c.css.map",
-    "main.9fc12abd.js.map": "/sumparks/static/js/main.9fc12abd.js.map",
+    "main.4b8ecd45.js.map": "/sumparks/static/js/main.4b8ecd45.js.map",
     "453.152faf74.chunk.js.map": "/sumparks/static/js/453.152faf74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91a39c7c.css",
-    "static/js/main.9fc12abd.js"
+    "static/js/main.4b8ecd45.js"
   ]
 }
