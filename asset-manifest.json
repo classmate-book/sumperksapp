@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sumperksapp/static/css/main.993a9f0d.css",
-    "main.js": "/sumperksapp/static/js/main.017a9e20.js",
+    "main.js": "/sumperksapp/static/js/main.d644fb31.js",
     "static/js/453.732abdc3.chunk.js": "/sumperksapp/static/js/453.732abdc3.chunk.js",
     "static/media/networking7.png": "/sumperksapp/static/media/networking7.6b7869e8a639af9bb42d.png",
     "index.html": "/sumperksapp/index.html",
     "main.993a9f0d.css.map": "/sumperksapp/static/css/main.993a9f0d.css.map",
-    "main.017a9e20.js.map": "/sumperksapp/static/js/main.017a9e20.js.map",
+    "main.d644fb31.js.map": "/sumperksapp/static/js/main.d644fb31.js.map",
     "453.732abdc3.chunk.js.map": "/sumperksapp/static/js/453.732abdc3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.993a9f0d.css",
-    "static/js/main.017a9e20.js"
+    "static/js/main.d644fb31.js"
   ]
 }
